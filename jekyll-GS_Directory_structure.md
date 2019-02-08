@@ -51,7 +51,7 @@ Uma visão geral do que cada um deles faz:
 
 `_includes`
 
-*Estas são as parciais que podem ser misturadas e combinadas por seus layouts e posts para facilitar a reutilização. A tag de liquid `{% include file.ext%}` pode ser usada para incluir a parcial em `_includes / file.ext`.*
+*Estas são as parciais que podem ser misturadas e combinadas por seus layouts e posts para facilitar a reutilização. A tag de liquid {% highlight ruby %} `{% include file.ext%}` {% endhighlight %} pode ser usada para incluir a parcial em `_includes / file.ext`.*
 
 
 `_layouts`
