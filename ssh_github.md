@@ -5,8 +5,6 @@ title: SSH Github
 
 Os artigos a seguir são uma tradução livre da documentação oficial do Github que está referida em cada página.
 
- * [SSH](./SSH_github.html)
-
  * [Sobre](./SSH_github_about.html)
 
  * [Conta](./SSH_github_account.html)
