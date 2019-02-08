@@ -1,3 +1,8 @@
+---
+layout: page
+title: Gerando uma nova chave GPG
+---
+
 [Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/)
 
   * Note: Antes de gerar uma nova chave GPG certifique-se de ter verificado seu endereço de email para poder assinar commits e tags.
@@ -35,3 +40,4 @@ Copie sua chave GPG, começando por `-----BEGIN PGP PUBLIC KEY BLOCK-----` è te
 Adicione a GPG key no Github.
 
 ***
+[back](./gpg_github.html)

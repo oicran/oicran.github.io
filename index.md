@@ -10,4 +10,3 @@ title: Bibliotecas
 ### [GPG Github](./gpg_github.html)
 
 ***
-[back](./)

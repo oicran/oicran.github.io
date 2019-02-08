@@ -1,3 +1,8 @@
+---
+layout: page
+title: Adicionando a chave GPG a conta do Github
+---
+
 ## [Telling git about your gpg key](https://help.github.com/articles/telling-git-about-your-gpg-key/)
 
 Depois de configurar sua chave GPG e adicioná-la à sua conta do GitHub, você precisa informar ao Git que há uma chave GPG que você gostaria de usar.
@@ -44,3 +49,4 @@ echo 'export GPG_TTY=$(tty)' >> ~/.profile
   * Note: Se não tem o `.bash_profile`, esse comando adiciona a chave GPG ao `.profile`.
 
 ***
+[back](./gpg_github.html)

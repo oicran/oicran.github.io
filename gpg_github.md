@@ -7,7 +7,7 @@ Os artigos a seguir são uma tradução livre da documentação oficial do Githu
 
  * [Adicionando uma nova chave GPG](./github_adding-new.html)
 
- * [Buscando chaves exixtentes](./github_checking-keys.html)
+ * [Buscando chaves existentes](./github_checking-keys.html)
 
  * [Commits](./github_commits-gpg.html)
 

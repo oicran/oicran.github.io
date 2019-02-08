@@ -30,4 +30,4 @@ Se tiver algum par de chaves pública/privada ( por exemplo, id_rsa.pub e id_rsa
   * Dica: Se você receber um erro que ~ / .ssh não existe, não se preocupe! Vamos criá-lo quando gerarmos uma nova chave SSH.
 
 ***
-[back](./)
+[back](./ssh_github.html)

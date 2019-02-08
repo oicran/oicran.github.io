@@ -58,4 +58,4 @@ Para obter mais informações sobre como usar o Bundler em seu projeto Jekyll, e
 _Construir um site Jekyll com o tema padrão é apenas o primeiro passo. A mágica real acontece quando você começa a criar postagens de blog, usando o assunto principal para controlar modelos e layouts, e aproveitando todas as opções impressionantes de configuração que o Jekyll disponibiliza._
 
 ***
-[back](./)
+[back](./jekyll.html)

@@ -8,4 +8,4 @@ title: Adicionando uma chave GPG
 Acessar pelo navegador em modo gráfico.
 
 ***
-[back](./)
+[back](./gpg_github.html)

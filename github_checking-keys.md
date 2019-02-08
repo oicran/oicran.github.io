@@ -3,7 +3,7 @@ layout: page
 title: Buscando chaves existentes
 ---
 
-## [Checking for exixting gpg keys](https://help.github.com/articles/checking-for-existing-gpg-keys/)
+## [Checking for existing gpg keys](https://help.github.com/articles/checking-for-existing-gpg-keys/)
 
 Antes de gerar podemos nos certificar da existência de de chaves GPG.
 
@@ -21,4 +21,4 @@ gpg --list-secret-keys --keyid-format LONG
 3- Check a saída do comando para ver se você tem alguma chave GPG.
 
 ***
-[back](./)
+[back](./gpg_github.html)

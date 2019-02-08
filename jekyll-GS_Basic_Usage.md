@@ -86,4 +86,4 @@ O comando de `help` está sempre aqui para lembrá-lo de todas as opções dispo
 Se você estiver interessado em navegar por esses documentos on-the-go, instale o `jekyll-docs` gem e execute `jekyll docs` no seu terminal.
 
 ***
-[back](./)
+[back](./jekyll.html)

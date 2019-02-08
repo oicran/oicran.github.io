@@ -11,13 +11,9 @@ Os artigos a seguir são uma tradução livre da documentação oficial do Jekyl
 
  * [Uso Básico](./jekyll-GS_Basic_Usage.html)
 
- * [Estrutura de diretórios](./jekyll-GS_Diretory_structure.html)
-
  * [Assets](./jekyll-YC_Assets.html)
 
  * [Front Matter](./jekyll-YC_Front_Matter.html)
-
- * [Escrevendo Posts](./jekyll-YC_Writing_Posts.html)
 
 ***
 [back](./)

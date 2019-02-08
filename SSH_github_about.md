@@ -12,4 +12,4 @@ Para usar sua chave SSH com um repositório de propriedade de uma organização 
 Recomendamos que você [revise regularmente a lista de chaves SSH](https://help.github.com/articles/reviewing-your-ssh-keys) e revogue as que forem inválidas ou que tenham sido comprometidas.
 
 ***
-[back](./)
+[back](./ssh_github.html)
