@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Adicionando uma nova chave SSH para a conta do Github
 ---
 
-## [Adicionando uma nova chave SSH para a conta do Github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account)
+[Adding](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account)
 
 Para configurar a sua conta Github com sua nova (ou existente) chave SSH, também é necessário adicioná-la a conta do Github.
 

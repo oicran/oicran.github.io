@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Conferindo chaves SSH existentes
 ---
 
-## [Conferindo chaves SSH existentes](https://help.github.com/articles/checking-for-existing-ssh-keys)
+[Checking](https://help.github.com/articles/checking-for-existing-ssh-keys)
 
 Antes de gerar nova chave iremos conferir as exixtentes.
 

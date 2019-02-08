@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Sobre SSH
 ---
 
-## [Sobre SSH](https://help.github.com/articles/about-ssh)
+[About SSH](https://help.github.com/articles/about-ssh)
 
 Usando o protocolo SSH voce pode  se conectar e autenticar com servidores remotos e serviços. Com chaves SSH você pode se conectar ao Github sem fornecer seu usuário e senha a cada visita.
 Ao configurar o SSH, você irá gerar uma chave SSH e adicioná-la ao ssh-agent e, em seguida, adicionar a chave à sua conta do GitHub. Adicionar a chave SSH ao ssh-agent garante que sua chave SSH tenha uma camada extra de segurança através do uso de uma frase secreta. Para obter mais informações, consulte ["Trabalhando com senhas de chave SSH"](https://help.github.com/articles/working-with-ssh-key-passphrases).

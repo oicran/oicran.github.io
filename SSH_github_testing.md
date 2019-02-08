@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Testando sua conexão SSH
 ---
 
-### [Testando sua conexão SSH](https://help.github.com/articles/testing-your-ssh-connection)
+[Testing](https://help.github.com/articles/testing-your-ssh-connection)
 
 Depois de ativada sua chave SSH e adicionada a sua conta do Github, pode agora testar sua conexão.
 Antes de testar sua conexão você deve ter:

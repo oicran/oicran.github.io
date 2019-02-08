@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Gerando uma nova chave SSH e adicionando ao ssh-agent
 ---
 
-## [Gerando uma nova chave SSH e adicionando ao ssh-agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+[Generating](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 Depois de verificar as chaves SSH existentes, você pode gerar uma nova chave SSH para usar na autenticação e adicioná-la ao ssh-agent.
 
