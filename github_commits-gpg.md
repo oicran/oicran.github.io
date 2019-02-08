@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Commits
+title: Commits usando GPG
 ---
 
-## [Commits using gpg](https://help.github.com/articles/signing-commits-using-gpg/)
+[Commits using gpg](https://help.github.com/articles/signing-commits-using-gpg/)
 
 Depois de configurar sua chave GPG e associá-la à sua conta do GitHub e ao Git, você pode assinar commits localmente. Seus commits serão mostrados como verificados em uma solicitação pull no GitHub.
 
