@@ -1,0 +1,35 @@
+title: Oicran
+# email: sieb@protonmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my personal page! 
+  Here you will discover more about me and my projects, interests and knowledge.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: sieburgerr
+github_username:  oicran
+
+# Build settings
+
+header_pages:
+#  - about.md
+#  - portfolio.md
+  - jekyll.md
+  - ssh_github.md
+  - gpg_github.md
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
