@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Conferindo chaves SSH existentes
+layout: post
+title: "Conferindo chaves SSH existentes"
+date:   2019-02-11 12:49:00 -0200
+categories: ssh_github
 ---
 
 [Checking](https://help.github.com/articles/checking-for-existing-ssh-keys)

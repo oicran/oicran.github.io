@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Testando sua conexão SSH
+layout: post
+title: "Testando sua conexão SSH"
+date:   2019-02-11 12:49:30 -0200
+categories: ssh_github
 ---
 
 [Testing](https://help.github.com/articles/testing-your-ssh-connection)

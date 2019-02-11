@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Gerando uma nova chave GPG
+layout: post
+title: "Gerando uma nova chave GPG"
+date:   2019-02-11 12:43:30 -0200
+categories: gpg_github
 ---
 
 [Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/)

@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Front Matter
+layout: post
+title: "Front Matter"
+date:   2019-02-11 12:46:20 -0200
+categories: jekyll
 ---
 
 [Front Matter](https://jekyllrb.com/docs/frontmatter/)
@@ -51,7 +53,7 @@ Descrição: Defina como `false` se você não quiser que uma postagem específi
 
 Quaisquer variáveis no front matter que não são predefinidas são misturadas nos dados que são enviados para o Liquid template durante a conversão. Por exemplo, se você definir um título, poderá usá-lo no layout para definir o título da página:
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
   <head>

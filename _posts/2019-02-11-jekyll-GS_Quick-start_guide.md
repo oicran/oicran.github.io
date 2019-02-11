@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Quick-Start Guide
+layout: post
+title: "Quick-Start Guide"
+date:   2019-02-11 12:45:30 -0200
+categories: jekyll
 ---
 
 [Quick-start guide](https://jekyllrb.com/docs/quickstart/)

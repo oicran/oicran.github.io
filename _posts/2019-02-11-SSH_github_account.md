@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Adicionando uma nova chave SSH para a conta do Github
+layout: post
+title: "Adicionando uma nova chave SSH para a conta do Github"
+date:   2019-02-11 12:47:30 -0200
+categories: ssh_github
 ---
 
 [Adding](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account)

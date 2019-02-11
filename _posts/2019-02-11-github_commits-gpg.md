@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Commits usando GPG
+layout: post
+title: "Commits usando GPG"
+date:   2019-02-11 12:42:30 -0200
+categories: gpg_github
 ---
 
 [Commits using gpg](https://help.github.com/articles/signing-commits-using-gpg/)

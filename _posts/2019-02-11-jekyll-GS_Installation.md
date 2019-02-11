@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Instalação
+layout: post
+title: "Instalação"
+date:   2019-02-11 12:45:00 -0200
+categories: jekyll
 ---
 
 [Installation](https://jekyllrb.com/docs/installation/)

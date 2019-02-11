@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Adicionando a chave GPG a conta do Github
+layout: post
+title: "Adicionando a chave GPG a conta do Github"
+date:   2019-02-11 12:43:35 -0200
+categories: gpg_github
 ---
 
 [Telling git about your gpg key](https://help.github.com/articles/telling-git-about-your-gpg-key/)

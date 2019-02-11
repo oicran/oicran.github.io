@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Assets
+layout: post
+title: "Assets"
+date:   2019-02-11 12:46:00 -0200
+categories: jekyll
 ---
 
 [Assets](https://jekyllrb.com/docs/assets/)

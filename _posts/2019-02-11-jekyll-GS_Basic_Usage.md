@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Uso básico
+layout: post
+title: "Uso básico"
+date:   2019-02-11 12:45:50 -0200
+categories: jekyll
 ---
 
 [Basic Usage](https://jekyllrb.com/docs/usage/)

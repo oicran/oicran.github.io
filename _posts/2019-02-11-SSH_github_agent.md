@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Gerando uma nova chave SSH e adicionando ao ssh-agent
+layout: post
+title: "Gerando uma nova chave SSH e adicionando ao ssh-agent"
+date:   2019-02-11 12:48:00 -0200
+categories: ssh_github
 ---
 
 [Generating](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)

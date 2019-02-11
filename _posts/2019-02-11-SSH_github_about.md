@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Sobre SSH
+layout: post
+title: "Sobre SSH"
+date:   2019-02-11 12:47:00 -0200
+categories: ssh_github
 ---
 
 [About SSH](https://help.github.com/articles/about-ssh)

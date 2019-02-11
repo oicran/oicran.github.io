@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Buscando chaves existentes
+layout: post
+title: "Buscando chaves existentes"
+date:   2019-02-11 12:41:30 -0200
+categories: gpg_github
 ---
 
 [Checking for existing gpg keys](https://help.github.com/articles/checking-for-existing-gpg-keys/)
