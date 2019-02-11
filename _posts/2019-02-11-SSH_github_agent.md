@@ -43,4 +43,4 @@ Adicione a sua chave privada ao ssh-agent. Se sua chave foi criada ou tem um nom
 [Adicione a chave SSH a conta do Github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account).
 
 ***
-[back](./ssh_github.html)
+[back](./blog.html)

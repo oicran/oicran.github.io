@@ -87,4 +87,4 @@ Descrição: Semelhante a categorias, uma ou várias tags podem ser adicionadas 
     Se você não quiser repetir as variáveis frequentemente usadas no assunto, basta definir [defaults](https://jekyllrb.com/docs/configuration/#front-matter-defaults) para elas e substituí-las apenas quando necessário (ou não). Isso funciona tanto para variáveis predefinidas quanto personalizadas.
 
 ***
-[back](./jekyll.html)
+[back](./blog.html)

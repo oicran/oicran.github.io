@@ -51,4 +51,4 @@ echo 'export GPG_TTY=$(tty)' >> ~/.profile
   * Note: Se não tem o `.bash_profile`, esse comando adiciona a chave GPG ao `.profile`.
 
 ***
-[back](./gpg_github.html)
+[back](./blog.html)

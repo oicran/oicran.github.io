@@ -10,4 +10,4 @@ categories: gpg_github
 Acessar pelo navegador em modo gráfico.
 
 ***
-[back](./gpg_github.html)
+[back](./blog.html)

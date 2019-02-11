@@ -42,4 +42,4 @@ Copie sua chave GPG, começando por `-----BEGIN PGP PUBLIC KEY BLOCK-----` è te
 Adicione a GPG key no Github.
 
 ***
-[back](./gpg_github.html)
+[back](./blog.html)

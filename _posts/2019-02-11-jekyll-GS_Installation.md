@@ -81,4 +81,4 @@ ls pkg/*.gem | head -n 1 | xargs gem install -l`
 Agora com tudo atualizado e instalado, mãos à obra!
 
 ***
-[back](./jekyll.html)
+[back](./blog.html)

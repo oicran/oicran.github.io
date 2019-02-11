@@ -45,4 +45,4 @@ https://help.github.com/assets/images/help/settings/ssh-add-key.png
 https://help.github.com/assets/images/help/settings/sudo_mode_popup.png
 
 ***
-[back](./ssh_github.html)
+[back](./blog.html)

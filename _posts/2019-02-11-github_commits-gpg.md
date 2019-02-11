@@ -45,4 +45,4 @@ git push
 6 - Para ver informações mais detalhadas sobre a verificação das assinaturas clique em [Verified](https://help.github.com/assets/images/help/commits/gpg-signed-commit-verified-without-details.png).
 
 ***
-[back](./)
+[back](./blog.html)

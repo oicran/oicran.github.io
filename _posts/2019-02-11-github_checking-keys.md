@@ -23,4 +23,4 @@ gpg --list-secret-keys --keyid-format LONG
 3- Check a saída do comando para ver se você tem alguma chave GPG.
 
 ***
-[back](./gpg_github.html)
+[back](./blog.html)

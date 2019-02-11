@@ -65,4 +65,4 @@ pluguins:
 ```
 
 ***
-[back](./jekyll.html)
+[back](./blog.html)

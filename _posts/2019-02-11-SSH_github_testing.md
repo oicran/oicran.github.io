@@ -54,4 +54,4 @@ Esse é um conhecido problema com algumas distribuições Linux, [veja aqui](htt
 Verifique se a mensagem contém o seu nome de usuário, se receber uma mensagem "permission denied", [veja aqui](https://help.github.com/articles/error-permission-denied-publickey).
 
 ***
-[back](./ssh_github.html)
+[back](./blog.html)
